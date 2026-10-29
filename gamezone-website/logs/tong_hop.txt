@@ -1,0 +1,10 @@
+﻿=== TONG HOP LOG GAMEZONE ===
+2025-11-05 08:54:15 [WARNING] May chu qua tai CPU 90%
+6
+
+
+# Noi dung file logs/tong_hop.txt sau khi tao:
+=== TONG HOP LOG GAMEZONE ===
+[2026-03-30 10:18:10] WARNING: High memory usage detected
+[2026-03-30 10:20:45] WARNING: Slow query response time
+26
